@@ -16,27 +16,27 @@ $_['text_week']                = 'неделя';
 $_['text_semi_month']          = 'пол месяца';
 $_['text_month']               = 'месяц';
 $_['text_year']                = 'год';
-$_['text_trial']               = '%s every %s %s for %s payments then ';
-$_['text_recurring']           = '%s every %s %s';
-$_['text_length']              = ' for %s payments';
-$_['text_until_cancelled']     = 'until cancelled';
-$_['text_recurring_item']      = 'Recurring Item';
-$_['text_payment_recurring']   = 'Payment Profile';
-$_['text_trial_description']   = '%s every %d %s(s) for %d payment(s) then';
-$_['text_payment_description'] = '%s every %d %s(s) for %d payment(s)';
-$_['text_payment_cancel']      = '%s every %d %s(s) until canceled';
+$_['text_trial']               = '%s каждого %s %s для %s платежа, то ';
+$_['text_recurring']           = '%s каждого %s %s';
+$_['text_length']              = ' для %s платежей';
+$_['text_until_cancelled']     = 'пока не будет отменено';
+$_['text_recurring_item']      = 'Повторяющиеся пункты';
+$_['text_payment_recurring']   = 'Платежный профиль';
+$_['text_trial_description']   = '%s каждого %d %s для %d платежа(ей), то';
+$_['text_payment_description'] = '%s каждого %d %s для %d платежа(ей), то';
+$_['text_payment_cancel']      = '%s каждого %d %s пока не будет отменено';
 
 // Column
-$_['column_image']             = 'Image';
-$_['column_name']              = 'Product Name';
-$_['column_model']             = 'Model';
-$_['column_quantity']          = 'Quantity';
-$_['column_price']             = 'Unit Price';
-$_['column_total']             = 'Total';
+$_['column_image']             = 'Изображение';
+$_['column_name']              = 'Наименование товара';
+$_['column_model']             = 'Модель';
+$_['column_quantity']          = 'Количество';
+$_['column_price']             = 'Цена';
+$_['column_total']             = 'Итого';
 
 // Error
-$_['error_stock']              = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']            = 'Minimum order amount for %s is %s!';
-$_['error_required']           = '%s required!';
-$_['error_product']            = 'Warning: There are no products in your cart!';
-$_['error_recurring_required'] = 'Please select a payment recurring!';
+$_['error_stock']              = 'Товары, отмеченные *** не доступны в требуемом количестве или их нет на складе!';
+$_['error_minimum']            = 'Минимальное количество товара %s для регистрации заказа, составляет %s!';
+$_['error_required']           = '%s обязательно для заполнения!';
+$_['error_product']            = 'Предупреждение: Ваша корзина пуста!';
+$_['error_recurring_required'] = 'Пожалуйста выберите повторяющийся платеж!';
