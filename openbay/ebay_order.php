@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_total_shipping']		= 'Shipping';
-$_['text_total_discount']		= 'Discount';
-$_['text_total_tax']			= 'Tax';
-$_['text_total_sub']			= 'Sub-total';
-$_['text_total']				= 'Total';
-$_['text_smp_id']				= 'Selling Manager sale ID: ';
-$_['text_buyer']				= 'Buyer username: ';
+$_['text_total_shipping']		= 'Доставка';
+$_['text_total_discount']		= 'Скидка';
+$_['text_total_tax']			= 'Налог';
+$_['text_total_sub']			= 'Подитог';
+$_['text_total']				= 'Итого';
+$_['text_smp_id']				= 'Номер менеджера по продажам: ';
+$_['text_buyer']				= 'Имя покупателя: ';
