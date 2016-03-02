@@ -1,29 +1,29 @@
 <?php
 // Text
-$_['text_title']				= 'Credit or Debit Card';
-$_['text_credit_card']			= 'Credit Card Details';
-$_['text_wait']					= 'Please wait!';
+$_['text_title']				= 'Кредитная или дебетная карта';
+$_['text_credit_card']			= 'Информацияо о кредитной карте';
+$_['text_wait']					= 'Пожалуйста подождите!';
 
 // Entry
-$_['entry_cc_number']			= 'Card number';
-$_['entry_cc_name']				= 'Cardholder name';
-$_['entry_cc_expire_date']		= 'Card expiry date';
-$_['entry_cc_cvv2']				= 'Card security code (CVV2)';
+$_['entry_cc_number']			= 'Номер карты';
+$_['entry_cc_name']				= 'Имя держателя карты';
+$_['entry_cc_expire_date']		= 'Дата истечения срока действия карты';
+$_['entry_cc_cvv2']				= 'Код безопасности карты (CVV2)';
 
 // Help
-$_['help_start_date']			= '(if available)';
-$_['help_issue']				= '(for Maestro and Solo cards only)';
+$_['help_start_date']			= '(если доступно)';
+$_['help_issue']				= '(только для карт Maestro и Solo)';
 
 // Text
-$_['text_result']				= 'Result: ';
-$_['text_approval_code']		= 'Approval code: ';
-$_['text_reference_number']		= 'Reference: ';
-$_['text_card_number_ref']		= 'Card last 4 digits: xxxx ';
-$_['text_card_brand']			= 'Card brand: ';
-$_['text_response_code']		= 'Response code: ';
-$_['text_fault']				= 'Fault message: ';
-$_['text_error']				= 'Error message: ';
-$_['text_avs']					= 'Address verification: ';
+$_['text_result']				= 'Результат: ';
+$_['text_approval_code']		= 'Код подтверждения: ';
+$_['text_reference_number']		= 'Ссылка: ';
+$_['text_card_number_ref']		= 'Последние 4 цифры номера карты: xxxx ';
+$_['text_card_brand']			= 'Бренд карты: ';
+$_['text_response_code']		= 'Код ответа: ';
+$_['text_fault']				= 'Сообщение о неисправности: ';
+$_['text_error']				= 'Сообщение об ошибке: ';
+$_['text_avs']					= 'Адрес подтверждения: ';
 $_['text_address_ppx']			= 'No address data provided or Address not checked by the Card Issuer';
 $_['text_address_yyy']			= 'Card Issuer confirmed that street and postcode match with their records';
 $_['text_address_yna']			= 'Card Issuer confirmed that street matches with their records but postcode does not match';

@@ -1,30 +1,30 @@
 <?php
 // Heading
-$_['heading_title']				= 'Login and Pay with Amazon';
-$_['heading_address']			= 'Please choose a delivery address';
-$_['heading_payment']			= 'Please select a payment method';
-$_['heading_confirm']			= 'Order summary';
+$_['heading_title']				= 'Вход и оплата с Amazon';
+$_['heading_address']			= 'Пожалуйста выберите адрес доставки';
+$_['heading_payment']			= 'Пожалуйста, выберите метод оплаты';
+$_['heading_confirm']			= 'Резюме заказа';
 
 // Text
-$_['text_back']					= 'Back';
-$_['text_cart']					= 'Cart';
-$_['text_confirm']				= 'Confirm';
-$_['text_continue']				= 'Continue';
-$_['text_lpa']					= 'Login and Pay with Amazon';
-$_['text_enter_coupon']			= 'Enter your coupon code here. If you don\'t have one, leave it empty.';
-$_['text_coupon']				= 'Coupon';
-$_['text_tax_other']			= 'Taxes / Other handling fees';
-$_['text_success_title']		= 'Your order has been placed!';
-$_['text_payment_success']		= 'Your order was successfully placed. Order details are below';
+$_['text_back']					= 'Назад';
+$_['text_cart']					= 'Корзина покупок';
+$_['text_confirm']				= 'Подтвердить';
+$_['text_continue']				= 'Продолжить';
+$_['text_lpa']					= 'Вход и оплата с Amazon';
+$_['text_enter_coupon']			= 'Введите код скидочного купона сюда. Если у вас нет кода, оставьте это поле пустым.';
+$_['text_coupon']				= 'Скидочный купон';
+$_['text_tax_other']			= 'Налоги / Другие сборы за обработку';
+$_['text_success_title']		= 'Ваш заказ был размещен!';
+$_['text_payment_success']		= 'Ваш заказ был успешно размещен. Детальная информация о заказе ниже';
 
 // Error
-$_['error_payment_method']		= 'Please select a payment method';
-$_['error_shipping']			= 'Please select a shipping method';
-$_['error_shipping_address']	= 'Please select a delivery address';
-$_['error_shipping_methods']	= 'There was an error retrieving your address from Amazon. Please contact the shop administrator for help.';
-$_['error_no_shipping_methods'] = 'There are no shipping options to the selected address. Please select a different shipping address.';
-$_['error_process_order']		= 'There was an error processing your order. Please contact the shop administrator for help.';
-$_['error_login']				= 'Login failed';
-$_['error_login_email']			= 'Login failed: %s account email address did not match Amazon account email address';
-$_['error_minimum']             = 'Minimum order amount for Login and Pay with Amazon is %s!';
+$_['error_payment_method']		= 'Пожалуйста, выберите метод оплаты';
+$_['error_shipping']			= 'Пожалуйста, выберите метод доставки';
+$_['error_shipping_address']	= 'Пожалуйста, выберите адрес доставки';
+$_['error_shipping_methods']	= 'Возникла ошибка при получении вашего адреса из Amazon. Пожалуйста, обратитесь к администратору магазина за помощью.';
+$_['error_no_shipping_methods'] = 'Нет доступных вариантов доставки для данного адреса. Пожалуйста выберите другой адрес.';
+$_['error_process_order']		= 'Произошла ошибка в процессе обработки вашего заказа. Пожалуйста, обратитесь к администратору магазина за помощью.';
+$_['error_login']				= 'Ошибка входа';
+$_['error_login_email']			= 'Ошибка входа: %s адрес электронной почты не соответствует электронному адресу учетной записи Amazon';
+$_['error_minimum']             = 'Минимальная сумма заказа для оплаты через систему Amazon составляет %s!';
 
