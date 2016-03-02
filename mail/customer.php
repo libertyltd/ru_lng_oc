@@ -1,16 +1,16 @@
 <?php
 // Text
-$_['text_subject']        = '%s - Thank you for registering';
-$_['text_welcome']        = 'Welcome and thank you for registering at %s!';
-$_['text_login']          = 'Your account has now been created and you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_approval']       = 'Your account must be approved before you can login. Once approved you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_services']       = 'Upon logging in, you will be able to access other services including reviewing past orders, printing invoices and editing your account information.';
-$_['text_thanks']         = 'Thanks,';
-$_['text_new_customer']   = 'New customer';
-$_['text_signup']         = 'A new customer has signed up:';
-$_['text_website']        = 'Web Site:';
-$_['text_customer_group'] = 'Customer Group:';
-$_['text_firstname']      = 'First Name:';
-$_['text_lastname']       = 'Last Name:';
+$_['text_subject']        = '%s - Благодарим за регистрацию';
+$_['text_welcome']        = 'Добро пожаловать и благодарим вас за регистрацию %s!';
+$_['text_login']          = 'Ваша учетная запись была создана, теперь вы можете войти в Личный кабинет на нашем сайте, используя адрес электронной почты и пароль, либо по следующей ссылке:';
+$_['text_approval']       = 'Прежде чем вы сможете войти в систему, ваша учетная запись должна быть проверена. После проверки, вы сможете войти в Личный кабинет на нашем сайте, используя адрес электронной почты и пароль, либо по следующей ссылке:';
+$_['text_services']       = 'В Личном кабинете вы можете просмотреть историю заказов, респечатать счета и редактировать параметры учетной записи.';
+$_['text_thanks']         = 'Спасибо,';
+$_['text_new_customer']   = 'Новый покупатель';
+$_['text_signup']         = 'Новый покупатель зарегистрировался:';
+$_['text_website']        = 'Веб-сайт:';
+$_['text_customer_group'] = 'Группа покупателей:';
+$_['text_firstname']      = 'Имя, Отчество:';
+$_['text_lastname']       = 'Фамилия:';
 $_['text_email']          = 'E-Mail:';
-$_['text_telephone']      = 'Telephone:';
+$_['text_telephone']      = 'Телефон:';
