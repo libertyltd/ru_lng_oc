@@ -35,7 +35,7 @@ $_['text_response_code_full']	= 'Код подтверждения: ';
 $_['text_response_code']		= 'Полный код ответа: ';
 $_['text_response_card']		= 'Держатель карты: ';
 $_['text_response_card_type']	= 'Тип карты: ';
-$_['text_response_proc_code']	= 'Код процессора: ';
+$_['text_response_proc_code']	= 'Код оператора: ';
 $_['text_response_ref']			= 'Ref номер: ';
 
 // Error

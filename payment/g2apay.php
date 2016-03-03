@@ -1,3 +1,3 @@
 <?php
 // Text
-$_['text_title'] = 'Credit / Debit Card / Paypal / Wallet (G2APay)';
+$_['text_title'] = 'Кредитная / Дебетная карта / Paypal / Кошелек (G2APay)';
