@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_title']  = 'Weight Based Shipping';
-$_['text_weight'] = 'Weight:';
+$_['text_title']  = 'Оплата доставки по весу';
+$_['text_weight'] = 'Вес:';
