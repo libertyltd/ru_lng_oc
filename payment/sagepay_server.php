@@ -1,26 +1,26 @@
 <?php
 // Text
-$_['text_title']				= 'Credit Card / Debit Card (SagePay)';
-$_['text_credit_card']			= 'Card Details';
-$_['text_description']			= 'Items on %s Order No: %s';
-$_['text_card_type']			= 'Card Type: ';
-$_['text_card_name']			= 'Card Name: ';
-$_['text_card_digits']			= 'Last Digits: ';
-$_['text_card_expiry']			= 'Expiry: ';
-$_['text_trial']				= '%s every %s %s for %s payments then ';
-$_['text_recurring']			= '%s every %s %s';
-$_['text_length']				= ' for %s payments';
-$_['text_success']				= 'Your payment has been authorised.';
-$_['text_decline']				= 'Your payment has been declined.';
-$_['text_bank_error']			= 'There was an error processing your request with the bank.';
-$_['text_transaction_error']	= 'There was an error processing your transaction.';
-$_['text_generic_error']		= 'There was an error processing your request.';
-$_['text_hash_failed']			= 'Hash check failed. Do not try your payment again as the payment status is unknown. Please contact the merchant.';
-$_['text_link']					= 'Please click <a href="%s">here</a> to continue';
+$_['text_title']				= 'Кредитная карта / Дебетная карта (SagePay)';
+$_['text_credit_card']			= 'Данные карты';
+$_['text_description']			= 'Позиций %s Номер заказа: %s';
+$_['text_card_type']			= 'Тип карты: ';
+$_['text_card_name']			= 'Название карты: ';
+$_['text_card_digits']			= 'Последние цифры: ';
+$_['text_card_expiry']			= 'Истекает: ';
+$_['text_trial']				= '%s каждого %s %s для %s платежей, то ';
+$_['text_recurring']			= '%s каждого %s %s';
+$_['text_length']				= ' для %s платежей';
+$_['text_success']				= 'Ваш платеж был авторизован.';
+$_['text_decline']				= 'Ваш платеж был отклонен.';
+$_['text_bank_error']			= 'Произошла ошибка во время обработки вашего запроса банком.';
+$_['text_transaction_error']	= 'При обработке вашего запроса произошла ошибка.';
+$_['text_generic_error']		= 'При обработке вашего запроса произошла ошибка.';
+$_['text_hash_failed']			= 'Произошла ошибка проверки хеш. Не пытайтесь осуществить оплату еще раз так как статус текущей оплаты неизвестен. Пожалуйста свяжитесь с продавцом.';
+$_['text_link']					= 'Пожалуйста нажмите <a href="%s">здесь</a> для продолжения';
 
 // Entry
-$_['entry_card']				= 'New or Existing Card: ';
-$_['entry_card_existing']		= 'Existing';
-$_['entry_card_new']			= 'New';
-$_['entry_card_save']			= 'Remember card details for future use';
-$_['entry_cc_choice']			= 'Choose an Existing Card';
+$_['entry_card']				= 'Новая или существующая карта: ';
+$_['entry_card_existing']		= 'Существующая';
+$_['entry_card_new']			= 'Новая';
+$_['entry_card_save']			= 'Запомнить данные карты';
+$_['entry_cc_choice']			= 'Выберите действующую карту';

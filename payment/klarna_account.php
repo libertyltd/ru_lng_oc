@@ -1,38 +1,38 @@
 <?php
 // Text
-$_['text_title']				= 'Klarna Account - Pay from %s/month';
+$_['text_title']				= 'Счет Klarna - Оплатить из %s/месяц';
 $_['text_terms']				= '<span id="klarna_account_toc"></span><script type="text/javascript">var terms = new Klarna.Terms.Account({el: \'klarna_account_toc\', eid: \'%s\', country: \'%s\'});</script>';
-$_['text_information']			= 'Klarna Account Information';
-$_['text_additional']			= 'Klarna Account requires some additional information before they can proccess your order.';
-$_['text_male']					= 'Male';
-$_['text_female']				= 'Female';
-$_['text_year']					= 'Year';
-$_['text_month']				= 'Month';
-$_['text_day']					= 'Day';
-$_['text_payment_option']		= 'Payment options';
-$_['text_single_payment']		= 'Single Payment';
-$_['text_monthly_payment']		= '%s - %s per month';
-$_['text_comment']				= 'Klarna\'s Invoice ID: %s' . "\n" . '%s/%s: %.4f';
+$_['text_information']			= 'Информация по счету Klarna';
+$_['text_additional']			= 'Для счета Klarna терубется указать дополнительную информацию, прежде чем они смогут обработать ваш заказ.';
+$_['text_male']					= 'Мужчина';
+$_['text_female']				= 'Женщина';
+$_['text_year']					= 'Год';
+$_['text_month']				= 'Месяц';
+$_['text_day']					= 'День';
+$_['text_payment_option']		= 'Параметры оплаты';
+$_['text_single_payment']		= 'Единоразовый платеж';
+$_['text_monthly_payment']		= '%s - %s в месяц';
+$_['text_comment']				= 'Номер выставленного счета Klarna: %s' . "\n" . '%s/%s: %.4f';
 
 // Entry
-$_['entry_gender']				= 'Gender';
-$_['entry_pno']					= 'Personal Number';
-$_['entry_dob']					= 'Date of Birth';
-$_['entry_phone_no']			= 'Phone number';
-$_['entry_street']				= 'Street';
-$_['entry_house_no']			= 'House No.';
-$_['entry_house_ext']			= 'House Ext.';
-$_['entry_company']				= 'Company Registration Number';
+$_['entry_gender']				= 'Пол';
+$_['entry_pno']					= 'Личный номер';
+$_['entry_dob']					= 'Дата рождения';
+$_['entry_phone_no']			= 'Номер телефона';
+$_['entry_street']				= 'Улица';
+$_['entry_house_no']			= 'Номер дома';
+$_['entry_house_ext']			= 'корпус / строение, доп. информация';
+$_['entry_company']				= 'Регистрационный номер компании';
 
 // Help
-$_['help_pno']					= 'Please enter your Social Security number here.';
-$_['help_phone_no']				= 'Please enter your phone number.';
-$_['help_street']				= 'Please note that delivery can only take place to the registered address when paying with Klarna.';
-$_['help_house_no']				= 'Please enter your house number.';
-$_['help_house_ext']			= 'Please submit your house extension here. E.g. A, B, C, Red, Blue ect.';
-$_['help_company']				= 'Please enter your Company\'s registration number';
+$_['help_pno']					= 'Пожалуйста введите сюда номер своего социального страхования.';
+$_['help_phone_no']				= 'Пожалуйста введите номер вашего телефона.';
+$_['help_street']				= 'Пожалуйста обратите внимание, что доставка может быть осуществлена на зарегистированный адрес при оплате Klarna.';
+$_['help_house_no']				= 'Пожалуйста введите номер вашего дома.';
+$_['help_house_ext']			= 'Пожалуйста, укажите свой добавочный номер дома (корпус / строение) здесь. E.g. A, B, C, Red, Blue ect.';
+$_['help_company']				= 'Пожалуйста введите номер вашей регистрационной компании.';
 
 // Error
-$_['error_deu_terms']			= 'You must agree to Klarna\'s privacy policy (Datenschutz)';
-$_['error_address_match']		= 'Billing and Shipping addresses must match if you want to use Klarna Payments';
-$_['error_network']				= 'Error occurred while connecting to Klarna. Please try again later.';
+$_['error_deu_terms']			= 'Вы должны согласиться с политикой конфеденциальности Klarna (Datenschutz)';
+$_['error_address_match']		= 'Адрес доставки и биллинг должны совпадать если вы хотите использовать платежи Klarna';
+$_['error_network']				= 'Произошла ошибка при подключении к Klarna. Пожалуйста повторите попытку позже.';
