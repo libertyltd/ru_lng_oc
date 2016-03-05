@@ -1,24 +1,24 @@
 <?php
 // Heading
-$_['heading_title']     = 'Special Offers';
+$_['heading_title']     = 'Акции';
 
 // Text
-$_['text_empty']        = 'There are no special offer products to list.';
-$_['text_quantity']     = 'Qty:';
-$_['text_manufacturer'] = 'Brand:';
-$_['text_model']        = 'Product Code:';
-$_['text_points']       = 'Reward Points:';
-$_['text_price']        = 'Price:';
-$_['text_tax']          = 'Ex Tax:';
-$_['text_compare']      = 'Product Compare (%s)';
-$_['text_sort']         = 'Sort By:';
-$_['text_default']      = 'Default';
-$_['text_name_asc']     = 'Name (A - Z)';
-$_['text_name_desc']    = 'Name (Z - A)';
-$_['text_price_asc']    = 'Price (Low &gt; High)';
-$_['text_price_desc']   = 'Price (High &gt; Low)';
-$_['text_rating_asc']   = 'Rating (Lowest)';
-$_['text_rating_desc']  = 'Rating (Highest)';
-$_['text_model_asc']    = 'Model (A - Z)';
-$_['text_model_desc']   = 'Model (Z - A)';
-$_['text_limit']        = 'Show:';
+$_['text_empty']        = 'Нет специальных предложени и акций.';
+$_['text_quantity']     = 'Количество:';
+$_['text_manufacturer'] = 'Производитель:';
+$_['text_model']        = 'Код товара:';
+$_['text_points']       = 'Бонусные баллы:';
+$_['text_price']        = 'Цена:';
+$_['text_tax']          = 'Без НДС:';
+$_['text_compare']      = 'Сравнение товаров (%s)';
+$_['text_sort']         = 'Сортировка:';
+$_['text_default']      = 'По умолчанию';
+$_['text_name_asc']     = 'Наименование (А - Я)';
+$_['text_name_desc']    = 'Наименование (Я - А)';
+$_['text_price_asc']    = 'Цена (по возрастанию)';
+$_['text_price_desc']   = 'Цена (по убыванию)';
+$_['text_rating_asc']   = 'Рейтинг (по возрастанию)';
+$_['text_rating_desc']  = 'Рейтинг (по убыванию)';
+$_['text_model_asc']    = 'Модель (А - Я)';
+$_['text_model_desc']   = 'Модель (Я - А)';
+$_['text_limit']        = 'На странице:';
