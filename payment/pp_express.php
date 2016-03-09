@@ -9,7 +9,7 @@ $_['text_cart']               = 'Корзина покупок';
 $_['text_shipping_updated']   = 'Службы доставки обновлены';
 $_['text_trial']              = '%s каждого %s %s для %s платежей, то ';
 $_['text_recurring']          = '%s каждого %s %s';
-$_['text_recurring_item']     = 'Постоянный платеж';
+$_['text_recurring_item']     = 'Регулярный платеж';
 $_['text_length']             = ' для %s платежей';
 
 // Entry
